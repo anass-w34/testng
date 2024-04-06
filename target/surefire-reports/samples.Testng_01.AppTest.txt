@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: samples.Testng_01.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.242 s - in samples.Testng_01.AppTest
